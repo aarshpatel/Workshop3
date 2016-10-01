@@ -1,0 +1,111 @@
+#tweet_button_logo {
+	margin-right:5px;
+}
+
+#tweet_content {
+    width: 500px;
+    background-color: white;
+    border: 2px solid gray;
+    box-shadow: 1px 1px 5px #888888;
+	font-size: 13px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 65px;
+    bottom: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#user_pic { 
+	margin-left: 10px;
+	margin-right: 10px;
+} 
+
+#account_verified {
+	margin-left: 4px;
+}
+
+#real_account_name {
+	margin-left: 46px;
+}
+
+#following_btn {
+	margin-left: 25px;
+}
+
+#galaxy_image {
+	height: 300px;
+	width: 450px;
+	margin-left: 13px;
+}
+
+#people_who_liked {
+	margin-left: -40px;
+}
+
+#likes_retweets {
+	margin-top: -20px;
+	position: relative;
+	padding: -20px;
+}
+
+#arrow_left {
+	margin-right: 50px;
+	color: gray;
+}
+
+#horizontal {
+	color: gray;
+}
+
+#refresh {
+	margin-right: 50px;
+	color: gray;
+}
+
+#heart {
+	margin-right: 50px;
+	color: gray;
+}
+
+#small_buttons {
+	margin-top: 5px;
+}
+
+#reply_search_box {
+	width: 300px !important;
+}
+
+#reply_box {
+	background-color: gray;
+	border-radius: 10px;
+}
+
+#srch-term, #submit_search {
+  -webkit-border-radius: 10px;
+     -moz-border-radius: 10px;
+          border-radius: 10px;
+}
+
+#bottom_well {
+	height: 21px;
+	width: 497px;
+	margin-left: 5px;
+}
+
+#reply_search_box {
+	position: relative;
+	bottom: 16px;
+	right: 100px;
+	float: right;
+}
+
+#pic_reply {
+	font-size: 15px;
+	position: relative;
+	bottom: 10px;
+}
